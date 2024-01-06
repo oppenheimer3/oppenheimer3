@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
-- 👨‍💻 All of my projects are available at [my Homepage](https://oppenheimer3.github.io/)
+- 👨‍💻 All of my projects are available at my [Homepage](https://oppenheimer3.github.io/)
 
 - 📫 How to reach me **meskinehocine2@gmail.com**
 
