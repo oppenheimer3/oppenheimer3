@@ -13,7 +13,7 @@
 
 - 📄 Know about [my experiences](https://github.com/oppenheimer3/oppenheimer3.github.io/blob/main/cv/meskine%20hocine%20CV.pdf)
 
-- ⚡ **Young man, in mathematics you don't understand things. You just get used to them.** John von Neumann
+- ⚡ **"Young man, in mathematics you don't understand things. You just get used to them."** John von Neumann
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
