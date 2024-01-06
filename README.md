@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **Ph.D position in machine learning**
 
-- 🌱 I’m currently learning **Deep Probabilistic Models**
+- 🌱 I’m learning **Deep Probabilistic Models**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
