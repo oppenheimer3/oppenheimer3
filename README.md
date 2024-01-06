@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meskinehocine2@gmail.com**
 
-- 📄 Know about [my experiences](https://github.com/oppenheimer3/oppenheimer3.github.io/blob/main/cv/meskine%20hocine%20CV.pdf)
+- 📄 Know about my [Experiences](https://github.com/oppenheimer3/oppenheimer3.github.io/blob/main/cv/meskine%20hocine%20CV.pdf)
 
 - ⚡ **"Young man, in mathematics you don't understand things. You just get used to them."** John von Neumann
 
