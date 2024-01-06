@@ -15,4 +15,4 @@
 
 - ⚡ **"Young man, in mathematics you don't understand things. You just get used to them."** John von Neumann
 
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </p>
+<p> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </p>
